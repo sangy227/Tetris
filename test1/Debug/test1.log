@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\sangy\OneDrive\바탕 화면\VS19\test1\test1\main.cpp(45,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sangy\OneDrive\바탕 화면\VS19\test1\test1\main.cpp(59,33): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sangy\OneDrive\바탕 화면\VS19\test1\test1\main.cpp(82,64): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sangy\OneDrive\바탕 화면\VS19\test1\test1\main.cpp(136,36): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sangy\OneDrive\바탕 화면\VS19\test1\test1\main.cpp(146,37): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sangy\OneDrive\바탕 화면\VS19\test1\test1\main.cpp(146,29): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sangy\OneDrive\바탕 화면\VS19\test1\test1\main.cpp(153,43): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sangy\OneDrive\바탕 화면\VS19\test1\test1\main.cpp(153,30): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  test1.vcxproj -> C:\Users\sangy\OneDrive\바탕 화면\VS19\test1\Debug\test1.exe
